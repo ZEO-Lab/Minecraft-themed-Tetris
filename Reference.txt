@@ -1,0 +1,6 @@
+https://minecraft.novaskin.me/gallery/tag/texture:ice
+音效：
+    TNT:https://minecraft.fandom.com/zh/wiki/TNT#%E9%9F%B3%E6%95%88
+    死亡:https://www.bilibili.com/video/BV1Vs411F7s3/
+    冰：https://minecraft.fandom.com/zh/wiki/%E5%86%B0#%E9%9F%B3%E6%95%88
+    火焰：https://minecraft.fandom.com/zh/wiki/%E8%90%A5%E7%81%AB?variant=zh-tw#%E9%9F%B3%E6%95%88  
