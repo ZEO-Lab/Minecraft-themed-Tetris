@@ -121,6 +121,7 @@ public class Tetris extends JPanel {
         hm.put(2, setting);
  
         backgroundMusic.play();
+        setting.loadBackgroundMusic(backgroundMusic);
     }
 
     /**
