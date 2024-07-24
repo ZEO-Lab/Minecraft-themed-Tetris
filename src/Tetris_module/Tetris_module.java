@@ -66,7 +66,7 @@ public class Tetris_module {
 
         for (int i = 0; i < NextBlock.length; i++) {
             NextBlock[i] = getBlock((int) (Math.random() * 5 + 1));
-            next_block_map[i] = new Small_Map(width / 2 + window_w / 2 + 10, height / 2 - window_h / 2 + 20 + 160 * i);
+            next_block_map[i] = new Small_Map(width / 2 + window_w / 2 , height / 2 - window_h / 2 + 20 + 160 * i);
             next_block_map[i].update(NextBlock[i]);
         }
     }
