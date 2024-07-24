@@ -117,6 +117,14 @@ public class SettingPage extends page {
     }
 
     /**
+     * Let setting page can control the background music.
+     * @param backgroundMusic background music
+     */
+    public void loadBackgroundMusic(Music backgroundMusic){
+        this.backgroundMusic = backgroundMusic;
+    }
+
+    /**
      * setting music and sound value
      * 
      * @return return to previous page 
