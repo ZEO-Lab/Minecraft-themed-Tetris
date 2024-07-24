@@ -137,7 +137,7 @@ public class PlayPage extends page {
             score[0] += lines * 10 + 5 + (lines - 2) * 10;
             score[1]+=lines;
         }
-        score[2] = (score[0] >= 50) ? score[0] / 50 + 1 : 1;
+        score[2] = (score[0] >= 50) ? score[0] / 200 + 1 : 1;
         Tetris.setPauseCD(300 * (6 - score[2]));
 
         int scole_x = (w - window_w) / 2 - scole_sign_w;
